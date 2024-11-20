@@ -1,5 +1,3 @@
-![Descripción del GIF](Banner.gif)
-
 <table width="100%">
   <tr>
     <td align="center">
@@ -12,3 +10,5 @@
 
 <h2>💫 About Me</h2>
 <img align="right" alt="" width="400" src="">
+
+![Descripción del GIF](Banner.gif)
